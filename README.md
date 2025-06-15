@@ -1,4 +1,4 @@
-# 🧮 Simple Calculator (Python GUI)
+#  Simple Calculator (Python GUI)
 
 A basic calculator GUI app using Python and Tkinter. It supports:
 
@@ -8,13 +8,18 @@ A basic calculator GUI app using Python and Tkinter. It supports:
 - Division
 - Real-time input/output
 
-## 📸 Preview
+##  Preview
 ![Preview](preview.png)
 
 ## 📦 Requirements
 - Python 3.x
 
 No external libraries required.
+
+📁 Features
+-User-friendly interface
+-Handles invalid input
+-Keyboard & mouse friendly
 
 ## 🚀 How to Run
 

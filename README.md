@@ -17,9 +17,10 @@ A basic calculator GUI app using Python and Tkinter. It supports:
 No external libraries required.
 
 📁 Features
--User-friendly interface
--Handles invalid input
--Keyboard & mouse friendly
+
+- User-friendly interface
+- Handles invalid input
+- Keyboard & mouse friendly
 
 ## 🚀 How to Run
 

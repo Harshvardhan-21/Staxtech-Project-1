@@ -9,7 +9,7 @@ A basic calculator GUI app using Python and Tkinter. It supports:
 - Real-time input/output
 
 ##  Preview
-![Preview](preview.png)
+![Preview](preview_image.png)
 
 ## 📦 Requirements
 - Python 3.x
